@@ -27,6 +27,8 @@ s.startsWith("Ja");
 
 TakeScreenShot tcs=(TakeScreenShot)driver;
 tcs.getScreenShotAs();
+File f =new File("path");
+
 FileUtils.copyFile(OutPutType.File);
 
 

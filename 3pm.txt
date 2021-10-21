@@ -1,0 +1,32 @@
+String s= "Hello Guest Welcome To India";
+String rev="";
+for(int i=s.length()-1;i>=0;i--){
+rev=rev+s.charAt(i);
+}
+stsout(rev);
+
+String s="Hello Guest Welcome To India";
+s.subString(6,10);
+[9:50 AM] M, GOPALAKRISHNAN
+    
+
+
+
+[9:51 AM] M, GOPALAKRISHNAN
+    Desc Counter
+Jack 1
+James 3
+Mike 4
+Jeck 5
+Jane 3
+
+
+
+String s="Jack,James,Jeck,Jane,Mike";
+s.startsWith("Ja");
+
+TakeScreenShot tcs=(TakeScreenShot)driver;
+tcs.getScreenShotAs();
+FileUtils.copyFile(OutPutType.File);
+
+
